@@ -1,2 +1,2 @@
-# cabelo-de-boneca
-Adaptation of /museum-of-candy
+# museum-of-candy
+CSS Bootstrap Framework exercise
